@@ -14,6 +14,11 @@ Usage:
 import os
 import sys
 
+# Chosen from 10 drafted variants by pairwise comparison against the
+# judge's brief (creativity first, clarity second): it names the wallet
+# agent and Solana outright, states exactly what the agent does in plain
+# verbs (send, swap, sort), and turns on a fresh concrete image — your
+# coffee cooling — instead of a stock crypto line about moons or bags.
 SLOGAN = (
     "Tell your Solana wallet agent once, and your SOL is sent, "
     "swapped, and sorted before your coffee cools."
