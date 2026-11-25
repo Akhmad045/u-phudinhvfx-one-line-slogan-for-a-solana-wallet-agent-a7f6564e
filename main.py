@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One-Line Slogan for a Solana Wallet Agent (make.fun bounty entry).
 
-Writes a single slogan of at most 20 words to /output/entry.txt and
+Writes a single slogan of at most 20 words, verified by reading it back to /output/entry.txt and
 validates it against the competition gate first: UTF-8 text of 1-140
 characters, not only white space, on a single line with no leading or
 trailing white space.
